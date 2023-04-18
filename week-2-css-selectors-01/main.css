@@ -1,0 +1,15 @@
+a:link {
+    color: burlywood;
+}
+
+a:visited {
+color: cadetblue;
+}
+
+a:hover{
+    color: lightseagreen;
+}
+
+a:active {
+    color: steelblue;
+}
