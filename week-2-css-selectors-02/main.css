@@ -1,0 +1,28 @@
+ul:first-child {
+    color: aquamarine;
+}
+
+li:last-child {
+    color:sienna;
+}
+
+li:nth-child(even) {
+    background-color: cadetblue;
+}
+
+ul:nth-child(odd) {
+    background-color:darkorange;
+}
+
+li:nth-child(5) {
+    color:saddlebrown;
+}
+
+li:nth-child(3n+2) {
+    background-color:wheat;
+}
+
+li:only-child {
+    color:darkgreen;
+}
+
