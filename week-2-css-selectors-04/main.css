@@ -1,0 +1,27 @@
+div p {
+    color: blue;
+    text-align: left;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+div > p {
+    color: brown;
+    text-align: end;
+    font-style: italic;
+    font-size: 25px;
+}
+
+div ~ p {
+    color: chocolate;
+    text-shadow: 0.6;
+    text-indent: 0.5;
+    font-style: oblique;
+    font-size: 25px;
+}
+
+div + p {
+    color: burlywood;
+    text-align: right;
+    font-size: 25px;
+}
