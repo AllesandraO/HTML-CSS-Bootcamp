@@ -1,0 +1,13 @@
+p::first-letter {
+    font-family: monospace ;
+    font-size: 50px;
+    line-height: .7;
+    color: violet;
+}
+
+p::first-line {
+    font-family: serif;
+    font-size: 30px;
+    line-height: .9;
+    color: deeppink;
+}
